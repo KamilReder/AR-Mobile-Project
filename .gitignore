@@ -42,6 +42,9 @@
 # Jetbrains Rider personal-layer settings
 *.DotSettings.user
 
+# IDE
+.idea/
+
 # Visual Studio cache directory
 .vs/
 
